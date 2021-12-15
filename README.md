@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sleep-Soul-29
+- 👋 Hi, I’m @Sleepy-Soul-29
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning something cool!.
 - 💞️ I’m looking to collaborate on Covid-19 Data Visualisation.
